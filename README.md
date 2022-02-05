@@ -1,5 +1,7 @@
 # StarWars blog database
 
+![image](https://user-images.githubusercontent.com/70613056/152640422-6587bca2-475b-4289-9602-31f8fc687f85.png)
+
 **Important**: To do this activity you need to `fork` this repo into your **Github** account and then open the forked repo on Gitpod.
 
 Inside the `src/models.py` file you will find a couple of classes describing an example database.
